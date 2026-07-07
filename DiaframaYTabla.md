@@ -1,8 +1,4 @@
 # Tarea Semana 2: Algoritmo de Control de Temperatura
-
-## Diagrama de Flujo
-![Diagrama de Flujo del Algoritmo](Tarea.drawio%20(2).png)
-
 ## Tabla de Trazado (Prueba de Escritorio)
 A continuación se presenta la ejecución manual del algoritmo utilizando un conjunto de datos plausibles para N = 5 servidores.
 
